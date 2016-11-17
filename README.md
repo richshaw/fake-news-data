@@ -1,4 +1,4 @@
-# Fake news data
+# False, Misleading, Clickbait-y, and/or Satirical "News" Sources
 False, Misleading, Clickbait-y, and/or Satirical “News” Sources made version controllable from. [Google Doc](https://docs.google.com/document/d/10eA5-mCZLSS4MQY5QGb5ewC3VAL6pLkT53V_81ZyitM/preview) created by Melissa Zimdars.
 
 ## Data
@@ -6,8 +6,6 @@ False, Misleading, Clickbait-y, and/or Satirical “News” Sources made version
 See data directory for nicely formatted data
 
 ============
-
-False, Misleading, Clickbait-y, and/or Satirical "News" Sources
 
 Disclaimer 1: All of the contents in this document reflect the opinion of the author and are for educational purposes only. This resource was split into categories around 8:00pm EST on 11/15/16.
 
